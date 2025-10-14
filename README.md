@@ -91,6 +91,9 @@ Different random samples produce different handwriting styles for the same digit
 **Multi-Digit Sequences:**
 Generate each digit independently with separate latent samples.
 
+<img width="1569" height="151" alt="generated_num" src="https://github.com/user-attachments/assets/a94dc1bc-8b9c-4900-bbd8-68f9fc520109" />
+
+
 ## Key Properties
 
 **Latent Space:**
