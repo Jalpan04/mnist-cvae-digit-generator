@@ -2,7 +2,7 @@
 
 A generative model that learns to produce handwritten digits conditioned on specific digit labels.
 
-![digits](https://github.com/user-attachments/assets/70c60869-9276-4524-a939-4ee77371dc79)
+![digits](https://github.com/user-attachments/assets/340450ec-b189-460f-9f4a-7de43e641689)
 
 ## What is a CVAE?
 
