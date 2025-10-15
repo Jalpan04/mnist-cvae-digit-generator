@@ -2,6 +2,8 @@
 
 A generative model that learns to produce handwritten digits conditioned on specific digit labels.
 
+![digits](https://github.com/user-attachments/assets/70c60869-9276-4524-a939-4ee77371dc79)
+
 ## What is a CVAE?
 
 A Conditional Variational Autoencoder extends the standard VAE by conditioning both encoding and decoding on labels. This allows controlled generation: specify a digit (0-9) and the model generates it in varying handwriting styles.
