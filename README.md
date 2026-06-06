@@ -125,3 +125,7 @@ Generate each digit independently with separate latent samples.
 - Synthetic dataset generation
 - Style exploration and visualization
 - Anomaly detection via reconstruction error
+
+## License
+
+This project is licensed under the Apache-2.0 License - see the [LICENSE](LICENSE) file for details.
