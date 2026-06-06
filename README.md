@@ -1,5 +1,7 @@
 # MNIST Conditional Variational Autoencoder
 
+![GitHub top language](https://img.shields.io/github/languages/top/Jalpan04/mnist-cvae-digit-generator) ![GitHub repo size](https://img.shields.io/github/repo-size/Jalpan04/mnist-cvae-digit-generator) [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
+
 A generative model that learns to produce handwritten digits conditioned on specific digit labels.
 
 ![digits](https://github.com/user-attachments/assets/340450ec-b189-460f-9f4a-7de43e641689)
